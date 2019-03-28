@@ -1,4 +1,4 @@
-# pics
+# Dogos
 
 A new Flutter project.
 
